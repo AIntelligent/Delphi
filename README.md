@@ -16,3 +16,7 @@
             Driver Name:                          MySQL ODBC 5.3 Unicode Driver
             Add MySQL.ANSI.ODBCLinkForMySQL:      Successful
             Delete MySQL.ANSI.ODBCUnlinkForMySQL: Successful
+
+# Generic.Tools.Password
+
+    Strong password generator: numeric, alphabetic, symbolic or mixed.
