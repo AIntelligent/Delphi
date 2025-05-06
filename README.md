@@ -17,6 +17,6 @@
             Add MySQL.ANSI.ODBCLinkForMySQL:      Successful
             Delete MySQL.ANSI.ODBCUnlinkForMySQL: Successful
 
-# Generic.Tools.Password
+# Generic.Tools.Password.pas
 
     Strong password generator: numeric, alphabetic, symbolic or mixed.
